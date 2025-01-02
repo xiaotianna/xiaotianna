@@ -9,8 +9,9 @@ const info = {
     name: "小天" | "wifi歪f",
     technologies: {
         frontEnd: {
-            css: ["less", "sass", "tailwindcss"],
+            css: ["Sass", "TailwindCSS"],
             js: ["Vue", "React", "Uniapp", "微信小程序", "Electron"],
+            build: ["Webpack", "Vite", "Rollup"]
         },
         backEnd: ["Node", "Express", "Nest.js"],
         databases: ["MySql", "MongoDB"],
