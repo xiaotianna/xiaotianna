@@ -1,6 +1,6 @@
 ##### Hi, I'm 小天:
 
-A full stack developer who loves front-end development.
+一个喜欢前端的全栈开发
 
 <img align='right' src="https://github.com/xiaotianna/xiaotianna/blob/main/octocat.gif" width="230">
 
