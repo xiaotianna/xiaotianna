@@ -7,7 +7,6 @@ A full stack developer who loves front-end development.
 ```javascript
 const info = {
     name: "小天" | "wifi歪f",
-    askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
             css: ["less", "sass", "tailwindcss"],
@@ -37,4 +36,4 @@ const info = {
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 
-⭐️ From [xiaotianna](https://github.com/xiaotianna)
+⭐️ From [小天](https://github.com/xiaotianna)
