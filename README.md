@@ -30,6 +30,11 @@ const info = {
 ![Vue.js](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/-Electron-000000?style=flat&logo=Electron&logoColor=61DAFB)
+![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack)
+![Vite](https://img.shields.io/badge/-Vite-000000?style=flat&logo=Vite)
+![Rollup](https://img.shields.io/badge/-Rollup-000000?style=flat&logo=Rollup.js)
+
+
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=339933)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&logoColor=ea2756)
