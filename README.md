@@ -42,4 +42,9 @@ const info = {
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 
-⭐️ From [小天](https://github.com/xiaotianna)
+⭐️ From 
+
+[Github](https://github.com/xiaotianna)
+[Gitee](https://gitee.com/wifi-skew-f)
+[掘金](https://juejin.cn/user/3204392469671415)
+[CSDN](https://blog.csdn.net/m0_65519288)
