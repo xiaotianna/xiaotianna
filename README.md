@@ -10,10 +10,10 @@ const info = {
     technologies: {
         frontEnd: {
             css: ["Sass", "TailwindCSS"],
-            js: ["Vue", "React", "Uniapp", "微信小程序", "Electron"],
+            js: ["Vue", "React", "Uniapp", "微信小程序", "Electron", "Nuxt", "Next"],
             build: ["Webpack", "Vite", "Rollup"]
         },
-        backEnd: ["Node", "Express", "Nest.js"],
+        backEnd: ["Node", "Express", "Nest.js", "Go", "Gin"],
         databases: ["MySql", "MongoDB"],
     }
 };
