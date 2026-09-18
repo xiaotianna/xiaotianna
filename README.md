@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://camo.githubusercontent.com/1e298436ceafd347651f700fa540651312936f6808285ba3ac4ebb951ce7bafb/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" width="140" alt="Animated Mona" />
+
 # Hi, I'm T1an 👋
 
 ### Frontend Engineering · Build Tools · Go · AI Applications
